@@ -1,0 +1,24 @@
+{
+  "name": "cookie-session-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fslink/cookie-session-test.git"
+  },
+  "author": "zarddoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fslink/cookie-session-test/issues"
+  },
+  "homepage": "https://github.com/fslink/cookie-session-test#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3"
+  }
+}
